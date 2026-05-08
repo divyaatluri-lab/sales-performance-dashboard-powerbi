@@ -1,0 +1,2 @@
+# Sales-Performance-and-Revenue-Insights-Dashboard-using-Power-BI
+Gathered requirements and designed KPI frameworks to track revenue, profit, and sales trends using Power BI and Excel •Conducted trend and root cause analysis to evaluate product and regional performance, identifying key revenue drivers •Built interactive dashboards and delivered actionable insights to support strategic business decisions
