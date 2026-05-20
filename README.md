@@ -45,4 +45,4 @@ Delivered actionable business insights through dashboards and analytical reporti
 
 ## Dashboard Preview
 
-![Dashboard Preview](sales-dashboard.png)
+![Dashboard Preview](sales-dashboard.png.png)
